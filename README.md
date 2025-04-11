@@ -50,13 +50,3 @@ Watch our system in action! The demo showcases 6 specialized agents working toge
 - **Real-time Adaptation**: Dynamically adjusts to user needs and preferences
 - **Open Architecture**: Compatible with multiple AI services and platforms
 
-## 🤝 Team
-- [Corneliu Croitoru](https://www.linkedin.com/in/corneliucroitoru/)
-- [Anthony Bernabeu](https://www.linkedin.com/in/anthonybernabeu/)
-
-## 📄 License
-This project is licensed under the Apache 2.0 license - see the [LICENSE](https://raw.githubusercontent.com/awslabs/multi-agent-orchestrator/main/LICENSE) file for details.
-
-## 📄 Font License
-This project uses the JetBrainsMono NF font, licensed under the SIL Open Font License 1.1.
-For full license details, see [FONT-LICENSE.md](https://github.com/JetBrains/JetBrainsMono/blob/master/OFL.txt).
